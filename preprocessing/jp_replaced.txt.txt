@@ -3,9 +3,8 @@ i	I
 u	U
 e	E1
 o	O
-d	z
 f	h
 sh	x
 r	l
-ch	j
 ts	z
+ch	j
