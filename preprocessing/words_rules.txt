@@ -88,11 +88,11 @@ ch_e	che/
 ch_i	chi/
 ch_o	cho
 ch_u	chu/
-z_a	tsa
-z_e	tse
-z_i	tsi
-z_o	tso
-z_u	tsu
+ts_a	tsa
+ts_e	tse
+ts_i	tsi
+ts_o	tso
+ts_u	tsu
 n_a	na/
 n_e	ne/
 n_i	ni/
