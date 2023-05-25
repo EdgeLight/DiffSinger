@@ -211,7 +211,7 @@ class BaseTask(nn.Module):
                 period=1 if hparams['save_ckpt'] else 100000
             ),
             logger=TensorBoardLogger(
-                save_dir=work_dir,
+                save_dir='/root/tf-logs',
                 name='lightning_logs',
                 version='lastest'
             ),
