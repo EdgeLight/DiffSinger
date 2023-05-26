@@ -46,7 +46,7 @@ binarization_args:
 raw_data_dir: 'data/opencpop/raw'
 processed_data_dir: ''
 binary_data_dir: 'data/opencpop/binary'
-g2p_dictionary: dictionaries/dsdict.txt
+g2p_dictionary: 'dictionaries/dsdict.txt'
 mel_vmin: -6. #-6.
 mel_vmax: 1.5
 wav2spec_eps: 1e-6
