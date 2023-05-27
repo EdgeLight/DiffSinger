@@ -42,7 +42,6 @@ f0_mel_max = 1127 * math.log(1 + f0_max / 700)
 frozen_gender = None
 frozen_spk_embed = None
 
-torch.cuda.init()
 
 def f0_to_coarse(f0):
     f0_mel = 1127 * (1 + f0 / 700).log()
