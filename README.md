@@ -12,7 +12,7 @@ TBD
 
 ## Getting Started
 
-[**[ 中文教程 | Chinese Tutorial ]**](https://www.yuque.com/sunsa-i3ayc/sivu7h)
+[**[ 中文教程 | Chinese Tutorial ]**](https://www.yuque.com/openvpi/tutorial)
 
 ### Installation
 
